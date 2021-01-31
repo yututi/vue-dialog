@@ -1,0 +1,1 @@
+window.hoge = 'fuga'
