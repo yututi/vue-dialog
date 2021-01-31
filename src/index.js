@@ -1,1 +1,1 @@
-window.hoge = 'fuga'
+window.message = 'hello world.'

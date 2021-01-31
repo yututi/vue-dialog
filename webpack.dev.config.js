@@ -6,7 +6,6 @@ module.exports = {
   entry: './src/index.js',
   output: {
     library: pkg.author,
-    libraryTarget: 'window',
     filename: 'module.js',
     path: resolve('example')
   },
